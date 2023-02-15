@@ -42,6 +42,6 @@ tbody tr:nth-child(even){
     filter: blur(1px);
 }
 .SHE:hover{
-    text-shadow: 1px 1px rgb(199, 216, 199);
+    text-shadow: 1px 1px rgb(121,66,66);
     filter:blur(1px);
 }
