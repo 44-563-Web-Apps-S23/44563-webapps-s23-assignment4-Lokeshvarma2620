@@ -38,10 +38,10 @@ tbody tr:nth-child(even){
     background-color: #f2f2f2;
 }
 .HE:hover{
-    text-shadow: 1px 1px rgb(121,66,66);
-    filter: blur(1px);
+    text-shadow:3px 3px rgb(233,15,19);
+    filter:blur(1px);
 }
 .SHE:hover{
-    text-shadow: 1px 1px rgb(121,66,66);
+    text-shadow: 3px 3px  rgb(121,66,66);
     filter:blur(1px);
 }
