@@ -39,11 +39,9 @@ tbody tr:nth-child(even){
 }
 .HE:hover{
     text-shadow:3px 3px rgb(233,15,19);
-    border: solid 3px red;
     filter:blur(1px);
 }
 .SHE:hover{
     text-shadow: 3px 3px rgb(121,66,66);
-    border:solid 3px green;
     filter:blur(1px);
 }
